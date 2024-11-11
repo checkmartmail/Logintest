@@ -35,6 +35,13 @@
       "phone_number": "75a4fbfb3ca0e218091c642202207f41fb092062fdff329aa1209f71c1146a80",
       "password": "6207feacdd648fed3123b8f9b4fa0b86af63e73bdd427c1a7c652f5b855a4513",
       "bag": []
+    },
+    {
+      "name": "Vidit",
+      "gender": "male",
+      "phone_number": "1d34999376127d837f1ca29103fa9ae98176aa816b95a98177c9d474df88eb0b",
+      "password": "b99e1ce76fafdc47a3a0f977f5d43b2962d3930b3822e8f1509c8a72249e8546",
+      "bag": []
     }
   ]
 }
