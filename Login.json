@@ -51,6 +51,13 @@
       "phone_number": "bc4a7d855acfff803703a68603e065c4356cb53767a207f23df96077f2d37895",
       "password": "9a900403ac313ba27a1bc81f0932652b8020dac92c234d98fa0b06bf0040ecfd",
       "bag": []
+    },
+    {
+      "name": "yash",
+      "gender": "male",
+      "phone_number": "4ce70752b12b57633a567b4cef8a874e0ecb0880a9390a6d8638d7e3b6f7e3b5",
+      "password": "5fed46e839fe1b149c32dba2817b1339de5bce021f21f5024fbe27bb60bc7dee",
+      "bag": []
     }
   ]
 }
