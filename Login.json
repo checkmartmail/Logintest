@@ -44,6 +44,13 @@
       "bag": [
         "0005"
       ]
+    },
+    {
+      "name": "Ankit",
+      "gender": "male",
+      "phone_number": "bc4a7d855acfff803703a68603e065c4356cb53767a207f23df96077f2d37895",
+      "password": "9a900403ac313ba27a1bc81f0932652b8020dac92c234d98fa0b06bf0040ecfd",
+      "bag": []
     }
   ]
 }
