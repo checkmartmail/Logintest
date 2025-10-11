@@ -73,7 +73,9 @@
       "gender": "male",
       "phone_number": "d20f82b483c8106d2a3b00715c3f02555c8fbb95dbfc630ab9740906f85286e6",
       "password": "7d6b21e141cf7f8525be02aa5dfaa39c34535230e7f3f10409642a7aa433e71b",
-      "bag": []
+      "bag": [
+        "0003"
+      ]
     }
   ]
 }
